@@ -19,20 +19,26 @@ header {
 /* #bio{
   width: 100%;
 } */
-#quote {
-  color: #363636;
-  /* font-size:900; */
-  font-weight: bold;
-  text-align: center;
-  text-transform: uppercase;
-  font-size: 2em;
-}
 .top  {
   color:#F8B195;
   text-align:center;
   text-decoration:underline;
   text-transform: uppercase;
   font-size: 3em;
+}
+#me {
+  text-align: center;
+  font-family: serif;
+  font-weight: bold;
+  font-style: italic;
+}
+#quote {
+  color: #F8B195;
+  /* font-size:900; */
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2em;
 }
 #one {
   /* background-color: black; */
@@ -53,20 +59,20 @@ header {
 #three {
   /* background-color: black; */
   float:left;
-  text-align: center;
-  margin-top: 1%;
+  /* text-align: center; */
+  margin-top: 0%;
   margin-right: 50%;
-  margin-left: 20%;
+  margin-left: 2%;
 }
 
 
 #four {
   /* background-color: black; */
-  float:left;
+  /* float:left; */
   text-align: center;
-  margin-top: 1%;
-  margin-right: 50%;
-  margin-left: 20%;
+  margin-bottom: 15%;
+  margin-right: 10%;
+  margin-left: 60%;
 }
 
 
