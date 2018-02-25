@@ -4,7 +4,10 @@ header {
   font-size: 2em;
   text-align: center;
   font-weight: bold;
-
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 #roll {
   background-color: #000000;
@@ -15,8 +18,8 @@ header {
 }
 
 div.content {
-  background: #C06C84;
-  border-top: 3px solid #F8B195;
+  background: #666666;
+  border-top: 78px solid #F8B195;
   border-bottom: 3px solid #F8B195;
   height: 300px;
   width: 100%;
@@ -84,17 +87,10 @@ body{
   background-color: #547980;
 }
 
-h4 {
-  color: #CC527A;
-}
-h2 {
-  color: #CC527A;
-}
-
 p {
   /* background: lightgrey; */
   font-family: Arial;
-  color: #A8A7A7;
+  /* color: #A8A7A7; */
 }
 
 ul {
