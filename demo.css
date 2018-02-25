@@ -1,0 +1,12 @@
+#food {
+/*
+  width: 30%;
+  float: left;
+  margin: 2%; */
+  /* background-image: url(https://static.pexels.com/photos/890578/pexels-photo-890578.jpeg); */
+  margin: auto;
+  width: auto;
+  height:auto;
+  border: 2px solid red;
+  align-items: center;
+}

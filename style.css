@@ -1,0 +1,103 @@
+/* .info{
+  width: 40%
+  text-align:center;
+} */
+
+div.content {
+  background: #C06C84;
+  border-top: 3px solid #F8B195;
+  border-bottom: 3px solid #F8B195;
+  height: 300px;
+  width: 100%;
+}
+header {
+  color: #363636;
+  font-family: Arial;
+  font-size: 1.25em;
+  text-align: center;
+}
+/* #bio{
+  width: 100%;
+} */
+#quote {
+  color: #363636;
+  /* font-size:900; */
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2em;
+}
+.top  {
+  color:#F8B195;
+  text-align:center;
+  text-decoration:underline;
+  text-transform: uppercase;
+  font-size: 3em;
+}
+#one {
+  /* background-color: black; */
+  float:left;
+  text-align: center;
+  margin-top: 1%;
+  margin-right: 60%;
+  margin-left: 22%;
+}
+
+#two {
+  margin-top:1px;
+  /* background-color: black; */
+  margin-left: 50%;
+  margin-bottom: 1%;
+}
+
+#three {
+  /* background-color: black; */
+  float:left;
+  text-align: center;
+  margin-top: 1%;
+  margin-right: 50%;
+  margin-left: 20%;
+}
+
+
+#four {
+  /* background-color: black; */
+  float:left;
+  text-align: center;
+  margin-top: 1%;
+  margin-right: 50%;
+  margin-left: 20%;
+}
+
+
+body{
+  font-family: georgia;
+  background-color: #547980;
+}
+
+h4 {
+  color: #CC527A;
+}
+h2 {
+  color: #CC527A;
+}
+
+p {
+  /* background: lightgrey; */
+  font-family: Arial;
+  color: #A8A7A7;
+}
+
+ul {
+    color: #A8A7A7;
+}
+ol {
+    color: #A8A7A7;
+}
+
+.food {
+
+  width: 10%;
+  float: left;
+    /* margin: 1%; */
+    }
