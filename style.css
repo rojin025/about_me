@@ -1,7 +1,18 @@
-/* .info{
-  width: 40%
-  text-align:center;
-} */
+header {
+  color: #ffffff;
+  font-family: Noto;
+  font-size: 2em;
+  text-align: center;
+  font-weight: bold;
+
+}
+#roll {
+  background-color: #000000;
+  border-top: 40px solid #ffffff;
+  border-bottom: 10px solid #666666;
+  margin-top: -42px;
+  margin-bottom: 0px;
+}
 
 div.content {
   background: #C06C84;
@@ -9,12 +20,6 @@ div.content {
   border-bottom: 3px solid #F8B195;
   height: 300px;
   width: 100%;
-}
-header {
-  color: #363636;
-  font-family: Arial;
-  font-size: 1.25em;
-  text-align: center;
 }
 /* #bio{
   width: 100%;
@@ -98,7 +103,11 @@ ul {
 ol {
     color: #A8A7A7;
 }
-
+.foo {
+  width: 1000px;
+  height: auto;
+  border-left: 100px;
+}
 .food {
 
   width: 10%;
